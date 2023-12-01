@@ -29,7 +29,7 @@ I'm on a journey from the world of comparative psychology to the dynamic realm o
   - Actively leveraging insights from ChatGPT3.5 into SOPs for enhanced communication and data interpretation (https://www1.villanova.edu/content/dam/villanova/provost/ora/iacuc/iacuc-sops/LabelingSecondaryContainers_v1.0_10.13.23.pdf)
 
 ## 📫 Let's Connect
-- LinkedIn: ((https://www.linkedin.com/in/william-mccarthy-iv/))
+- LinkedIn: (https://www.linkedin.com/in/william-mccarthy-iv/)
 
 ## 🚀 Goals
 My goal is to bring a unique perspective from comparative psychology to the field of data science. I'm passionate about leveraging AI and cutting-edge tools for impactful data analysis.

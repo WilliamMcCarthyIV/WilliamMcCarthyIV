@@ -1,4 +1,4 @@
-# 👋 Hi, I'm William Norman McCarthy IV - Data Enthusiast & Aspiring Data Scientist | Animal Care Technician
+# 👋 Hi, I'm William Norman McCarthy IV - Data Enthusiast & Aspiring Data Analyst | Animal Care Technician
 
 ## 📈 About Me
 I'm on a journey from the world of comparative psychology to the dynamic realm of data science. I earned my Master's in Psychology from Villanova University where I gained advanced experience analyzing behavioral data from diverse species, I'm now diving into the exciting field of data analytics.

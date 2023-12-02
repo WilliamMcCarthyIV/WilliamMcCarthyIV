@@ -30,6 +30,7 @@ I'm on a journey from the world of comparative psychology to the dynamic realm o
 
 ## 📫 Let's Connect
 - LinkedIn: (https://www.linkedin.com/in/william-mccarthy-iv/)
+- Kaggle (https://www.kaggle.com/williammccarthyiv)
 
 ## 🚀 Goals
 My goal is to bring a unique perspective from comparative psychology to the field of data science. I'm passionate about leveraging AI and cutting-edge tools for impactful data analysis.

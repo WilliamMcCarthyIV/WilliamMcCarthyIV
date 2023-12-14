@@ -1,4 +1,4 @@
-# 👋 Hi, I'm William Norman McCarthy IV - Data Enthusiast & Aspiring Data Analyst | Animal Care Technician
+# 👋 Hi, I'm William (Billy) Norman McCarthy IV - Data Enthusiast & Aspiring Data Analyst | Animal Care Technician
 
 ## 📈 About Me
 I'm on a journey from the world of comparative psychology to the dynamic realm of data science. I earned my Master's in Psychology from Villanova University where I gained advanced experience analyzing behavioral data from diverse species, I'm now diving into the exciting field of data analytics.
@@ -7,12 +7,12 @@ I'm on a journey from the world of comparative psychology to the dynamic realm o
 - **Data Analytics:**
   - SPSS (Advanced, 5 years of experience)
   - Excel (Intermediate, 5 years)
-  - SQL (Novice, SQLite, less than 1 year)
+  - SQLite (Novice, SQLite, less than 1 year)
   - Power BI (Novice, less than 1 year)
   - R (Novice, less than 1 year)
 
 ## 🌱 Currently Exploring
-- Migrating data into Azure SQL Database
+- Practicing writing SQL queries for data storage, retrieval, and analysis
 - Leveraging ChatGPT for data interpretation
 - Enhancing skills in Python, Pandas, and Scikit-Learn
 - Learning Tableau and Power BI for advanced data visualization

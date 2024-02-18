@@ -7,13 +7,13 @@ I'm on a journey from the world of comparative psychology to the dynamic realm o
 - **Data Analytics:**
   - SPSS (Advanced, 5 years of experience)
   - Excel (Intermediate, 5 years)
-  - SQLite (Novice, SQLite, less than 1 year)
-  - Power BI (Novice, less than 1 year)
-  - R (Novice, less than 1 year)
+  - SQL (Novice, SQLite, 3 months)
+  - Power BI (Novice, 3 months)
+  - R (Novice, 6 months)
+  - Python (Novice, 1 month)
 
 ## 🌱 Currently Exploring
 - Practicing writing SQL queries for data storage, retrieval, and analysis
-- Leveraging ChatGPT for data interpretation
 - Enhancing skills in Python, Pandas, and Scikit-Learn
 - Learning Tableau and Power BI for advanced data visualization
 - Developing proficiency in Jupyter Notebooks for efficient data analysis

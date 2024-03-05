@@ -5,6 +5,7 @@ I'm on a journey from the world of comparative psychology to the dynamic realm o
 
 ## 🔧 Technologies & Tools
 - **Data Analytics:**
+  - Tableau Public (Novice, less than 1 year of experience) - URL: https://public.tableau.com/app/profile/william.mccarthy1896/vizzes 
   - SPSS (Advanced, 5 years of experience)
   - Excel (Intermediate, 5 years)
   - SQL (Novice, SQLite, 3 months)
